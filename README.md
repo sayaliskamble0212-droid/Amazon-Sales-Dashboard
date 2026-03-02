@@ -81,4 +81,4 @@ This dashboard helps businesses make data-driven decisions by identifying sales 
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Amazon sales dashboard.png)
+![Dashboard](Amazon Sales Dashboard.png.png)
