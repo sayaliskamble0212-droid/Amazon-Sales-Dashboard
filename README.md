@@ -78,3 +78,7 @@ This dashboard helps businesses make data-driven decisions by identifying sales 
 - Add Year-over-Year comparison
 - Include Profit Margin Analysis
 - Implement Forecasting using Time Intelligence
+
+## 📷 Dashboard Preview
+
+![Dashboard](Amazon sales dashboard.png.png)
